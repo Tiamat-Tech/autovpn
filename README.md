@@ -1,5 +1,6 @@
 [!CAUTION]
 **This repository is no longer being maintained. No further updates, bug fixes, or support will be provided.**
+Please use the new version https://github.com/ttlequals0/autowire
 
 
 # Overview
